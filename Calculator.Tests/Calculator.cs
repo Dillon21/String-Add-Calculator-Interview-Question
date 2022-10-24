@@ -82,6 +82,14 @@ namespace Calculator.Tests {
 
         }
 
+        [TestCase("//[foo][foo2]\n1foo2", 3)]
+        public void Add_WhenDelimiterStealsInputNumber_ReturnsException(string input, int expectedResult) {
+
+            //Assert
+            Assert.Throws<ArgumentException>(() => sut.Add(input));
+
+        }
+
         [TestCase("//[;]\n3;3\n2", 8)]
         [TestCase("//[;]\n1;2\n1;5", 9)]
         
@@ -97,7 +105,6 @@ namespace Calculator.Tests {
         [TestCase("//[;]\n1;2\n1", 4)]
         [TestCase("//[;]\n3;3", 6)]
         [TestCase("//[foo]\n1foo2", 3)]
-        [TestCase("//[foo][foo2]\n1foo2", 3)]
         [TestCase("//[*][%]\n1*2%3", 6)]
 
         public void Add_WithWordsInInput(string input, int expectedResult) {
