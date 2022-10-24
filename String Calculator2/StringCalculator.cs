@@ -1,4 +1,6 @@
-﻿namespace String_Calculator2 {
+﻿using System.Text.RegularExpressions;
+
+namespace String_Calculator2 {
     public class StringCalculator {
         public int Add(string numbers) {
 
@@ -13,12 +15,16 @@
             //initial delimiter, used if no custom delimiter is set
             string[] delimArray = {","};
             
-            //Has Delimiter
+            //Has Custom Delimiter
             if (numbers.StartsWith("//[")) {
+
                 //split multiple delimiters into array
-                var tempArray = strArray[0].Split("[").Skip(1)
-                  .Select(x => x.Substring(0,x.IndexOf("]")))
-                  .ToList().ToArray();
+                //oredr by
+                var tempArray = Regex.Matches(strArray[0], @"\[(.+?)\]")
+                    .Select(r => r.Groups[1].Value)
+                    .OrderByDescending(s => s.Length)
+                    .ToArray();
+                    
 
                 //resize delimiter array to make delimArray reuseable
                 Array.Resize<string>(ref delimArray, tempArray.Length);
