@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+zZyIhKjIVGUs2Yn1l258VZbLuKMdtZJN+B7tZcLhMMtt3S5fCTXzTRE61R09APPLlKXLjwtwYefTd09PzL93w==",
+  "dgSpecHash": "AqEC62adzMXarnrdbeYxImd2hXsTeUxzH2ZX3YRkun16R0Q+HJ8fLTU8PnsdWk6u43NUrXJwOrN1KDFPDzyZtg==",
   "success": true,
-  "projectFilePath": "D:\\C# Tutorials\\String Calculator2\\Calculator.Tests\\String Calculator.Tests.csproj",
+  "projectFilePath": "D:\\C# Tutorials\\Programming Challenges\\String Calculator2\\String-Add-Calculator-Interview-Question\\Calculator.Tests\\String Calculator.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dillon.scott\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
     "C:\\Users\\dillon.scott\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

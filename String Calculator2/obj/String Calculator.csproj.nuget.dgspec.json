@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Tutorials\\String Calculator2\\String Calculator2\\String Calculator.csproj": {}
+    "D:\\C# Tutorials\\Programming Challenges\\String Calculator2\\String-Add-Calculator-Interview-Question\\String Calculator2\\String Calculator.csproj": {}
   },
   "projects": {
-    "D:\\C# Tutorials\\String Calculator2\\String Calculator2\\String Calculator.csproj": {
+    "D:\\C# Tutorials\\Programming Challenges\\String Calculator2\\String-Add-Calculator-Interview-Question\\String Calculator2\\String Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Tutorials\\String Calculator2\\String Calculator2\\String Calculator.csproj",
+        "projectUniqueName": "D:\\C# Tutorials\\Programming Challenges\\String Calculator2\\String-Add-Calculator-Interview-Question\\String Calculator2\\String Calculator.csproj",
         "projectName": "String Calculator",
-        "projectPath": "D:\\C# Tutorials\\String Calculator2\\String Calculator2\\String Calculator.csproj",
+        "projectPath": "D:\\C# Tutorials\\Programming Challenges\\String Calculator2\\String-Add-Calculator-Interview-Question\\String Calculator2\\String Calculator.csproj",
         "packagesPath": "C:\\Users\\dillon.scott\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Tutorials\\String Calculator2\\String Calculator2\\obj\\",
+        "outputPath": "D:\\C# Tutorials\\Programming Challenges\\String Calculator2\\String-Add-Calculator-Interview-Question\\String Calculator2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

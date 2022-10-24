@@ -13,3 +13,18 @@ D:\C# Tutorials\String Calculator2\String Calculator2\obj\Debug\net6.0\refint\St
 D:\C# Tutorials\String Calculator2\String Calculator2\obj\Debug\net6.0\String Calculator.pdb
 D:\C# Tutorials\String Calculator2\String Calculator2\obj\Debug\net6.0\String Calculator.genruntimeconfig.cache
 D:\C# Tutorials\String Calculator2\String Calculator2\obj\Debug\net6.0\ref\String Calculator.dll
+D:\C# Tutorials\Programming Challenges\String Calculator2\String-Add-Calculator-Interview-Question\String Calculator2\obj\Debug\net6.0\String Calculator.csproj.AssemblyReference.cache
+D:\C# Tutorials\Programming Challenges\String Calculator2\String-Add-Calculator-Interview-Question\String Calculator2\obj\Debug\net6.0\String Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Tutorials\Programming Challenges\String Calculator2\String-Add-Calculator-Interview-Question\String Calculator2\obj\Debug\net6.0\String Calculator.AssemblyInfoInputs.cache
+D:\C# Tutorials\Programming Challenges\String Calculator2\String-Add-Calculator-Interview-Question\String Calculator2\obj\Debug\net6.0\String Calculator.AssemblyInfo.cs
+D:\C# Tutorials\Programming Challenges\String Calculator2\String-Add-Calculator-Interview-Question\String Calculator2\obj\Debug\net6.0\String Calculator.csproj.CoreCompileInputs.cache
+D:\C# Tutorials\Programming Challenges\String Calculator2\String-Add-Calculator-Interview-Question\String Calculator2\obj\Debug\net6.0\String Calculator.dll
+D:\C# Tutorials\Programming Challenges\String Calculator2\String-Add-Calculator-Interview-Question\String Calculator2\obj\Debug\net6.0\refint\String Calculator.dll
+D:\C# Tutorials\Programming Challenges\String Calculator2\String-Add-Calculator-Interview-Question\String Calculator2\obj\Debug\net6.0\String Calculator.pdb
+D:\C# Tutorials\Programming Challenges\String Calculator2\String-Add-Calculator-Interview-Question\String Calculator2\bin\Debug\net6.0\String Calculator.exe
+D:\C# Tutorials\Programming Challenges\String Calculator2\String-Add-Calculator-Interview-Question\String Calculator2\bin\Debug\net6.0\String Calculator.deps.json
+D:\C# Tutorials\Programming Challenges\String Calculator2\String-Add-Calculator-Interview-Question\String Calculator2\bin\Debug\net6.0\String Calculator.runtimeconfig.json
+D:\C# Tutorials\Programming Challenges\String Calculator2\String-Add-Calculator-Interview-Question\String Calculator2\bin\Debug\net6.0\String Calculator.dll
+D:\C# Tutorials\Programming Challenges\String Calculator2\String-Add-Calculator-Interview-Question\String Calculator2\bin\Debug\net6.0\String Calculator.pdb
+D:\C# Tutorials\Programming Challenges\String Calculator2\String-Add-Calculator-Interview-Question\String Calculator2\obj\Debug\net6.0\String Calculator.genruntimeconfig.cache
+D:\C# Tutorials\Programming Challenges\String Calculator2\String-Add-Calculator-Interview-Question\String Calculator2\obj\Debug\net6.0\ref\String Calculator.dll

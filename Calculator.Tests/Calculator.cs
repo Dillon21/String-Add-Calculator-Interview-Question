@@ -82,11 +82,40 @@ namespace Calculator.Tests {
 
         }
 
-        [TestCase("//;\n1;2", 3)]
-        [TestCase("//;\n3;3", 6)]
-        [TestCase("//foo\n1foo2", 3)]
+        [TestCase("//[;]\n3;3\n2", 8)]
+        [TestCase("//[;]\n1;2\n1;5", 9)]
+        
+        public void Add_CheckMultipleLines_ReturnsSumOfSuppliedNumbers(string input, int expectedResult) {
+
+            var result = sut.Add(input);
+
+            //Assert
+            Assert.That(result, Is.EqualTo(expectedResult));
+
+        }
+
+        [TestCase("//[;]\n1;2\n1", 4)]
+        [TestCase("//[;]\n3;3", 6)]
+        [TestCase("//[foo]\n1foo2", 3)]
+        [TestCase("//[foo][foo2]\n1foo2", 3)]
+        [TestCase("//[*][%]\n1*2%3", 6)]
 
         public void Add_WithWordsInInput(string input, int expectedResult) {
+
+            var result = sut.Add(input);
+
+            //Assert
+            Assert.That(result, Is.EqualTo(expectedResult));
+
+        }
+
+        
+        
+        [TestCase("//[*][%]\n1*2%3", 6)]
+        //If delimiter has number on the end will not add correctly
+        [TestCase("//[foo][foo2]\n1foo2\n2foo22", 27)]
+        [TestCase("//[add][definitelyAdd]\n1definitelyAdd2\n2definitelyAdd2", 7)]
+        public void Add_WithWordsInInputAndMultipleDelimters_ReturnSumOfSuppliedNumbers(string input, int expectedResult) {
 
             var result = sut.Add(input);
 
@@ -111,5 +140,7 @@ namespace Calculator.Tests {
 
             Assert.That(result, Is.EqualTo(expectedResult));
         }
+
+
     }
 }

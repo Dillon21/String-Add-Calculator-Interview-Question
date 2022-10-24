@@ -3900,11 +3900,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# Tutorials\\String Calculator2\\Calculator.Tests\\String Calculator.Tests.csproj",
+      "projectUniqueName": "D:\\C# Tutorials\\Programming Challenges\\String Calculator2\\String-Add-Calculator-Interview-Question\\Calculator.Tests\\String Calculator.Tests.csproj",
       "projectName": "String Calculator.Tests",
-      "projectPath": "D:\\C# Tutorials\\String Calculator2\\Calculator.Tests\\String Calculator.Tests.csproj",
+      "projectPath": "D:\\C# Tutorials\\Programming Challenges\\String Calculator2\\String-Add-Calculator-Interview-Question\\Calculator.Tests\\String Calculator.Tests.csproj",
       "packagesPath": "C:\\Users\\dillon.scott\\.nuget\\packages\\",
-      "outputPath": "D:\\C# Tutorials\\String Calculator2\\Calculator.Tests\\obj\\",
+      "outputPath": "D:\\C# Tutorials\\Programming Challenges\\String Calculator2\\String-Add-Calculator-Interview-Question\\Calculator.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3925,8 +3925,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\C# Tutorials\\String Calculator2\\String Calculator2\\String Calculator.csproj": {
-              "projectPath": "D:\\C# Tutorials\\String Calculator2\\String Calculator2\\String Calculator.csproj"
+            "D:\\C# Tutorials\\Programming Challenges\\String Calculator2\\String-Add-Calculator-Interview-Question\\String Calculator2\\String Calculator.csproj": {
+              "projectPath": "D:\\C# Tutorials\\Programming Challenges\\String Calculator2\\String-Add-Calculator-Interview-Question\\String Calculator2\\String Calculator.csproj"
             }
           }
         }

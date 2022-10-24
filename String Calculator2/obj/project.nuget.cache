@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DdNqHtmCCwYTDHf+umnUrgFcG+Wj/9R4NyooA60q3B+ymrrWWhku2uQmL4+LC6igDYHdX8iThCVgD3Fyq9Fi3w==",
+  "dgSpecHash": "6rpK/cc2W8Lti2ELzoNLFbKU4nnPaL+JX7V5hCzVgunR7S5YIS+040HVLVbuLXu5lquezFLFUXlwrrfuXUk41A==",
   "success": true,
-  "projectFilePath": "D:\\C# Tutorials\\String Calculator2\\String Calculator2\\String Calculator.csproj",
+  "projectFilePath": "D:\\C# Tutorials\\Programming Challenges\\String Calculator2\\String-Add-Calculator-Interview-Question\\String Calculator2\\String Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
